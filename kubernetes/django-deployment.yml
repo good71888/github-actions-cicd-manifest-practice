@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: django
-        image: naseongjae/mycicddjango_ch11:1d76599
+        image: naseongjae/mycicddjango_ch11:7ff26ec
         ports:
         - containerPort: 8000
 
